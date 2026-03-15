@@ -20,7 +20,7 @@
 ### 1. 环境准备
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/ecommerce-cs-agent.git
+git clone https://github.com/shliii/ecommerce-cs-agent.git
 cd ecommerce-cs-agent
 
 # 创建虚拟环境（推荐）
