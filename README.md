@@ -11,7 +11,7 @@
 ✅ **鲁棒性保障**：完善的异常处理、超时重试、配置校验机制  
 
 ## 技术栈
-- **核心语言**：Python 3.9+
+- **核心语言**：Python 3.11
 - **大模型对接**：智谱AI API（GLM-4）
 - **工程化**：环境变量管理、日志记录、模块化设计
 - **扩展能力**：支持对接OpenAI API、Flask/FastAPI部署、Docker容器化
@@ -30,4 +30,7 @@ source venv/bin/activate  # Linux/Mac
 
 # 安装依赖
 pip install -r requirements.txt"# ecommerce-cs-agent" 
-"# ecommerce-cs-agent" 
+"# ecommerce-cs-agent"
+
+#API KEY
+替换.env的API KEY，然后开始使用
