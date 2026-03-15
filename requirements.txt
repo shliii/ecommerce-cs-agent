@@ -1,0 +1,28 @@
+# 核心框架（适配你的langchain 0.1.16）
+langchain==0.1.16
+langchain-community==0.0.38
+langchain-core==0.1.52
+
+# 智谱AI相关（适配你的版本）
+langchain-zhipu==4.1.8
+zhipuai==2.1.5
+
+# 向量库（Windows兼容版）
+faiss-cpu==1.7.4
+
+# 环境配置
+python-dotenv==1.0.1
+
+# HTTP请求（绕过SDK的核心依赖）
+requests==2.31.0
+
+# 文档加载（支持txt/md等格式）
+python-magic-bin==0.4.14 ; platform_system == "Windows"
+unstructured==0.10.30
+
+# 日志/工具
+logging==0.4.9.6
+typing-extensions==4.9.0
+
+# 可选：中文分词（优化文本分块）
+jieba==0.42.1

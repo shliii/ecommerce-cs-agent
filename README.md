@@ -29,4 +29,5 @@ source venv/bin/activate  # Linux/Mac
 # venv\Scripts\activate  # Windows
 
 # 安装依赖
-pip install -r requirements.txt
+pip install -r requirements.txt"# ecommerce-cs-agent" 
+"# ecommerce-cs-agent" 
